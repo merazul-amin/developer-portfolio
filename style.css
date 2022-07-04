@@ -15,7 +15,7 @@ h1 {
 .flexible-container {
     display: flex;
     flex-direction: row;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 
 .half-width {
@@ -39,6 +39,7 @@ h1 {
 .top-banner {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+    margin-bottom: 0;
 }
 
 .dream-big {
@@ -54,7 +55,7 @@ h1 {
 }
 
 .experience .head {
-    font-size: 60px;
+    font-size: 35px;
     text-align: center;
 }
 
@@ -75,7 +76,8 @@ h1 {
 }
 
 .experience h1 {
-    font-size: 40px;
+    font-size: 30px;
+
 }
 
 p {
